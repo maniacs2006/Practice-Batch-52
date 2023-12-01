@@ -1,0 +1,7 @@
+let name1 = "Hussain"
+vowelcount = 0
+for split in nm;
+console.log(split)
+if (a== ("a" ||  "e" ||  "i" ||  "o" ||  "u"))
+vowelcount= vowelcount+1 
+console.log("the number of vowel counts are: ",vowelcount)

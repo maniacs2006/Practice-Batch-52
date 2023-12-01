@@ -1,8 +1,7 @@
-"use strict";
 // Function to Find the Area of Triangle
 function areaRectangle(a, b) {
-    let area = a * b;
-    return area;
+  let area = a * b;
+  return area;
 }
 // Driver program
 let a = 5;

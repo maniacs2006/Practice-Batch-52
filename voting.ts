@@ -1,6 +1,7 @@
-let Age = 10;
-if (Age > 19) {
-  console.log("Yes,you can vote");
-} else if (Age <= 19) {
-  console.log("No, you can't vote");
+let Age = 19;
+if (Age >= 18) {
+  console.log("Yes,you are eligible to vote.");
+} else {
+  console.log("Sorry,you aren't eligible to vote.");
 }
+export {};

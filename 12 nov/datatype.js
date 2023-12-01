@@ -17,5 +17,5 @@ console.log("multiply", n1 * n2);
 console.log("divide", n1 / n2);
 //assignment operator
 let n3 = 23;
-n3 = n3 + 6; //29
-n3 = n3 - 6; //17
+n3 = n3 + 6; //29;
+n3 = n3 - 6; //17;
