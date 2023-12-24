@@ -1,5 +1,5 @@
 // Function to Find the Area of Triangle
-function areaRectangle(a, b) {
+function areaRectangle(a: number, b: number) {
   let area = a * b;
   return area;
 }

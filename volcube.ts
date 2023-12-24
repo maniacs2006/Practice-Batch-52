@@ -1,5 +1,5 @@
 //function to find volume of a cube
-function volumecube(l, w, h) {
+function volumecube(l: number, w: number, h: number) {
   let volume = l * w * h;
   return volume;
 }

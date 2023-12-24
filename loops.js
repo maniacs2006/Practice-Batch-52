@@ -11,16 +11,7 @@ else if (marks1 >= 60 && marks1 <= 70) {
     console.log("Fail");
 }
 let age = 24;
-let name = "Hussain";
+let Name1 = "Hussain";
 let country = "Pakistan";
-if (age >= 18) {
+if (age >= 18)
     console.log("adult");
-    if (country == "Pakistan")
-        ;
-}
-else if (age >= 13 && age <= 19) {
-    console.log("teenager");
-}
-else {
-    export {};
-}

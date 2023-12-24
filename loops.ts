@@ -9,17 +9,6 @@ if (marks1 > 50) {
 }
 
 let age: number = 24;
-let name: string = "Hussain";
+let Name1: string = "Hussain";
 let country: string = "Pakistan";
-if (age>=18) {
-    console.log("adult");
-    if country == "Pakistan"
-} else if (age>=13 && age<=19) {
-    console.log("teenager");
-} else {
-
-
-
-
-
-export{};
+if (age >= 18) console.log("adult");
